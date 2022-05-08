@@ -1,0 +1,20 @@
+{
+  "name": "matrix-test",
+  "version": "1.0.0",
+  "description": "Testing the Matrix REST APIs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/npetrangelo/matrix-test.git"
+  },
+  "keywords": [],
+  "author": "Nathan Petrangelo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/npetrangelo/matrix-test/issues"
+  },
+  "homepage": "https://github.com/npetrangelo/matrix-test#readme"
+}
