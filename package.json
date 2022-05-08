@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/npetrangelo/matrix-test#readme",
   "dependencies": {
+    "dotenv": "^16.0.0",
     "matrix-js-sdk": "^17.1.0"
   }
 }
