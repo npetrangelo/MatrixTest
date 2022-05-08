@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/npetrangelo/matrix-test/issues"
   },
-  "homepage": "https://github.com/npetrangelo/matrix-test#readme"
+  "homepage": "https://github.com/npetrangelo/matrix-test#readme",
+  "dependencies": {
+    "matrix-js-sdk": "^17.1.0"
+  }
 }
