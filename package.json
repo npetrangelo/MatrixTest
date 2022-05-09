@@ -2,9 +2,11 @@
   "name": "matrix-test",
   "version": "1.0.0",
   "description": "Testing the Matrix REST APIs",
+  "type": "module",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "versions": "node versions.js",
   },
   "repository": {
     "type": "git",
@@ -19,6 +21,7 @@
   "homepage": "https://github.com/npetrangelo/matrix-test#readme",
   "dependencies": {
     "dotenv": "^16.0.0",
-    "matrix-js-sdk": "^17.1.0"
+    "matrix-js-sdk": "^17.1.0",
+    "node-fetch": "^3.2.4"
   }
 }
